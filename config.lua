@@ -292,9 +292,9 @@ Config.Garages = {
     },
     ["intairport"] = {
         ["label"] = "Airport Hangar",
-        ["takeVehicle"] = vector3(-1025.92, -3017.86, 13.95),
-        ["spawnPoint"] = vector4(-979.2, -2995.51, 13.95, 52.19),
-        ["putVehicle"] = vector3(-1003.38, -3008.87, 13.95),
+        ["takeVehicle"] = vector3(-966.53, -2997.45, 13.95),
+        ["spawnPoint"] = vector4(-973.82, -2978.68, 13.95, 55.57),
+        ["putVehicle"] = vector3(-989.15, -3001.28, 13.95),
         ["showBlip"] = true,
         ["blipName"] = "Hangar",
         ["blipNumber"] = 360,
