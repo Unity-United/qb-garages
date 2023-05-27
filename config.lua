@@ -263,7 +263,7 @@ Config.Garages = {
         ["jobType"] = "cartel"
     },
     ["mrpdpersonal"] = {
-        ["label"] = "MRPD Personal Vehicle Garage",
+        ["label"] = "Personal Vehicle Garage",
         ["takeVehicle"] = vector3(470.97, -994.68, 25.47),
         ["spawnPoint"] = vector4(473.17, -998.01, 25.14, 87.42),
         ["putVehicle"] = vector3(468.97, -1000.32, 25.14),
@@ -277,7 +277,7 @@ Config.Garages = {
         ["jobType"] = "leo"
     },
     ["mrpdprofessional"] = {
-        ["label"] = "MRPD Professional Vehicle Garage",
+        ["label"] = "Professional Vehicle Garage",
         ["takeVehicle"] = vector3(460.27, -986.92, 25.14),
         ["spawnPoint"] = vector4(451.85, -989.25, 25.14, 78.68),
         ["putVehicle"] = vector3(442.72, -993.29, 25.14),
@@ -350,17 +350,6 @@ Config.Garages = {
         ["blipNumber"] = 360,
         ["blipColor"] = 3,
         ["type"] = "public",                --public, job, gang, depot
-        ["vehicle"] = "air"                 --car, air, sea, rig
-    },
-    ["airdepot"] = {
-        ["label"] = "Air Depot",
-        ["takeVehicle"] = vector3(-1243.29, -3392.3, 13.94),
-        ["spawnPoint"] = vector4(-1269.67, -3377.74, 13.94, 327.88),
-        ["showBlip"] = true,
-        ["blipName"] = "Air Depot",
-        ["blipNumber"] = 359,
-        ["blipColor"] = 3,
-        ["type"] = "depot",                --public, job, gang, depot
         ["vehicle"] = "air"                 --car, air, sea, rig
     },
     ["lsymc"] = {
