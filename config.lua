@@ -352,6 +352,17 @@ Config.Garages = {
         ["type"] = "public",                --public, job, gang, depot
         ["vehicle"] = "air"                 --car, air, sea, rig
     },
+    ["airdepot"] = {
+        ["label"] = "Air Depot",
+        ["takeVehicle"] = vector3(-1243.29, -3392.3, 13.94),
+        ["spawnPoint"] = vector4(-1269.67, -3377.74, 13.94, 327.88),
+        ["showBlip"] = true,
+        ["blipName"] = "Air Depot",
+        ["blipNumber"] = 359,
+        ["blipColor"] = 3,
+        ["type"] = "depot",                --public, job, gang, depot
+        ["vehicle"] = "air"                 --car, air, sea, rig
+    },
     ["lsymc"] = {
         ["label"] = "LSYMC Boathouse",
         ["takeVehicle"] = vector3(-794.66, -1510.83, 1.59),
